@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
+## Original flutter images
+![X - 7](https://github.com/user-attachments/assets/41811ea1-cf2d-4c51-9d9e-1524cfda964d)
 
+![X - 4](https://github.com/user-attachments/assets/53925a77-187a-4c9a-8b4b-cac41bdffb88)
+
+
+## My project images
 ![Screenshot_20240909-234950](https://github.com/user-attachments/assets/f72a5d53-ff01-4e0c-8bc8-e09bc820ce5b)
 
 ![Screenshot_20240909-235010](https://github.com/user-attachments/assets/0741ac5a-35b1-40d4-bf44-57eb3057b27c)
